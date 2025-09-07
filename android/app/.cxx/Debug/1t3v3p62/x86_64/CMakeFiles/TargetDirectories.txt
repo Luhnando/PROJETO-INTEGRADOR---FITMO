@@ -1,2 +1,0 @@
-C:/Users/Administrator/Desktop/Fitmo-main/android/app/.cxx/Debug/1t3v3p62/x86_64/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/Desktop/Fitmo-main/android/app/.cxx/Debug/1t3v3p62/x86_64/CMakeFiles/rebuild_cache.dir
