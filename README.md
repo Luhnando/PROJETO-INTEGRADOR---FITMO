@@ -145,7 +145,7 @@ Este projeto está licenciado sob a **MIT License** - consulte o arquivo [LICENS
 
 ## 🙌 Agradecimentos
 
-- Ao orientador **Gustavo Calixto** pelo suporte técnico e mentoria
+- Ao orientador **João Carlos Lima e Silva** pelo suporte técnico e mentoria
 - Ao Senac pela infraestrutura e oportunidades de aprendizado
 - À comunidade Flutter pelo ecossistema robusto
 
