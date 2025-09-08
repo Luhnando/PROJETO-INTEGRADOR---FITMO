@@ -24,7 +24,7 @@ O **Fitmo** é um aplicativo de fitness exclusivo para Android que combina trein
 
 ## 📽️ Video de demonstração
 
-- Link: https://www.youtube.com/shorts/SSY-fUPdnfc
+- Link: https://www.youtube.com/shorts/wuJvsx4sbDc
 
 ## ✨ Recursos Principais
 
