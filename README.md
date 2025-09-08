@@ -6,7 +6,7 @@
   <h3>Sua jornada fitness com a trilha sonora perfeita</h3>
   
   ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
-  ![Versão](https://img.shields.io/badge/Versão-1.0.0-green)
+  ![Versão](https://img.shields.io/badge/Vers%C3%A3o-1.5.0-green)
   ![Flutter](https://img.shields.io/badge/Flutter-3.13.0+-informational)
   ![Plataforma](https://img.shields.io/badge/Plataforma-Android-brightgreen)
   ![Licença](https://img.shields.io/badge/Licença-MIT-orange)
