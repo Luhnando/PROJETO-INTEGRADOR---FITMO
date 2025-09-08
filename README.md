@@ -86,7 +86,7 @@ Se você deseja apenas instalar e usar o aplicativo sem configurar o ambiente de
 ### Passo a Passo
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/fitmo.git
+   git clone https://github.com/Luhnando/PROJETO-INTEGRADOR---FITMO.git
    cd fitmo
    ```
 
